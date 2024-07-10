@@ -1,4 +1,4 @@
-package leo.aula.db;
+package demo.jdbc.db;
 
 import javax.swing.plaf.nimbus.State;
 import java.io.FileInputStream;
